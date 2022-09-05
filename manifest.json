@@ -1,0 +1,9 @@
+{
+    "name": "Snip and Search",
+    "description": "An extension to grab a part of the screen and reverse image search it. ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    }
+}
