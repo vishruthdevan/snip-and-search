@@ -6,9 +6,9 @@
     "background": {
         "service_worker": "background.js"
     },
-    "action" : {},
     "permissions": [
-        "desktopCapture",
-        "tabs"
+        "tabCapture",
+        "tabs",
+        "activeTab"
     ]
 }
